@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgRaspberryCompleto", "ProgRaspberryCompleto\ProgRaspberryCompleto.vcxproj", "{61533B38-B91A-46CE-A0D8-2B3765FA28D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61533B38-B91A-46CE-A0D8-2B3765FA28D6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{61533B38-B91A-46CE-A0D8-2B3765FA28D6}.Debug|ARM.Build.0 = Debug|ARM
+		{61533B38-B91A-46CE-A0D8-2B3765FA28D6}.Release|ARM.ActiveCfg = Release|ARM
+		{61533B38-B91A-46CE-A0D8-2B3765FA28D6}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC9D14A-5391-4A12-A0B0-E08DD5FAC134}
+	EndGlobalSection
+EndGlobal
